@@ -1,0 +1,22 @@
+:root { 
+  --black: #000000;
+  --black-2: #010101;
+  --blue-violet: #7c6aba;
+  --cod-gray: #0c0c0c;
+  --martinique: #2c2a4a;
+  --shark: #252328;
+  --sky-blue: #7fdeff;
+  --tolopea: #1d0c45;
+  --white: #ffffff;
+ 
+  --font-size-l: 40px;
+  --font-size-m: 30px;
+  --font-size-s: 25px;
+  --font-size-xl: 50px;
+  --font-size-xs: 20px;
+  --font-size-xxs: 15px;
+  --font-size-xxxs: 10px;
+ 
+  --font-family-kanit: "Kanit", Helvetica;
+  --font-family-urbanist: "Urbanist", Helvetica;
+}

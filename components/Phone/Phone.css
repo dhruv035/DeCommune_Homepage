@@ -1,0 +1,12 @@
+.phone {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(128, 222, 255) 46.47%, rgb(255, 255, 255) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2552px;
+  overflow: hidden;
+  width: 360px;
+}
+

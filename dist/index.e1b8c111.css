@@ -1,0 +1,110 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css";
+@import "https://fonts.googleapis.com/css?family=Urbanist:700,900,300,600,800|Kanit:400";
+@import "https://px.animaapp.com/63589f9dd40a1d649668f4b0.63589f9e2d900f734a99e646.SOLiPIu.rcp.png";
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+
+.container-center-horizontal {
+  pointer-events: none;
+  width: 100%;
+  background: linear-gradient(#7fdeff .21%, #fff 100%);
+  flex-direction: row;
+  justify-content: center;
+  display: flex;
+}
+
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+
+input:focus {
+  outline: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --black: #000;
+  --black-2: #010101;
+  --blue-violet: #7c6aba;
+  --cod-gray: #0c0c0c;
+  --martinique: #2c2a4a;
+  --shark: #252328;
+  --sky-blue: #7fdeff;
+  --tolopea: #1d0c45;
+  --white: #fff;
+  --font-size-l: 40px;
+  --font-size-m: 30px;
+  --font-size-s: 25px;
+  --font-size-xl: 50px;
+  --font-size-xs: 20px;
+  --font-size-xxs: 15px;
+  --font-size-xxxs: 10px;
+  --font-family-kanit: "Kanit", Helvetica;
+  --font-family-urbanist: "Urbanist", Helvetica;
+}
+
+.macbook-pro-17 {
+  height: 5415px;
+  width: 1728px;
+  background: #fff linear-gradient(#7fdeff .21%, #fff 100%);
+  border: 1px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.tablet {
+  height: 3296px;
+  width: 744px;
+  background: #fff linear-gradient(#7fdeff 0%, #fff 100%);
+  border: 1px;
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+  overflow: hidden;
+}
+
+.tablet-big {
+  height: 4592px;
+  width: 1024px;
+  background: #fff linear-gradient(#7fdeff 0%, #fff 100%);
+  border: 1px;
+  flex-direction: column;
+  align-items: flex-end;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.phone {
+  height: 2552px;
+  width: 360px;
+  background: #fff linear-gradient(#80deff 46.47%, #fff 100%);
+  border: 1px;
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+  overflow: hidden;
+}
+
+.mac-book-air {
+  height: 4613px;
+  width: 1280px;
+  background: #fff linear-gradient(#7fdeff 0%, #fff 100%);
+  border: 1px;
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=index.e1b8c111.css.map */

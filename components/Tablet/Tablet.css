@@ -1,0 +1,12 @@
+.tablet {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(127, 222, 255) 0%, rgb(255, 255, 255) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3296px;
+  overflow: hidden;
+  width: 744px;
+}
+
